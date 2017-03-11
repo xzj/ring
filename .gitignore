@@ -14,3 +14,5 @@ target
 checkouts
 .lein-repl-history
 .nrepl-port
+*.swp
+*.swo
